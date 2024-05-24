@@ -14,9 +14,9 @@ const en: LocaleType = {
   },
   Auth: {
     Title: "Need Access Code",
-    Tips: "Please enter access code below",
+    Tips: "It is free, send an E-mail to international-school-of-helsingborg@proton.me for access code.",
     SubTips: "Or enter your OpenAI or Google API Key",
-    Input: "access code",
+    Input: "Enter Access Code",
     Confirm: "Confirm",
     Later: "Later",
   },
