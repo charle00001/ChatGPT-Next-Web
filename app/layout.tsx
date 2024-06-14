@@ -10,7 +10,7 @@ import { GoogleTagManager } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "Gang is SMART",
+  title: "Avada Kedavra",
   description: "Use AI For Free ! ",
   viewport: {
     width: "device-width",
